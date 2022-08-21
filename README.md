@@ -20,6 +20,6 @@ The main tool and resource that are being added to support the network involve i
 
 The main skill that would be able to transfer to other projects mainly involves applying proper code management in addition to resource management in order for as many boards as possible to use said code.
 
-6)How did you make this project maintainable, readable, and adaptable?
+6) How did you make this project maintainable, readable, and adaptable?
 
 I make this project maintainable through the use of proper function implementation, readable through proper comments, and adaptable by having said code be able to be changed and more adaptable. 
